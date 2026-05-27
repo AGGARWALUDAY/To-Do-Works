@@ -1,0 +1,13 @@
+.div{
+    height:500px;
+    width: 500px;
+    background-color: red;
+    margin:auto; 
+}
+.ul{
+    margin:auto; 
+    background-color: blue;
+}
+.li{   
+    background-color: green;
+}
